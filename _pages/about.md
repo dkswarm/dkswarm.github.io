@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://physics.uiowa.edu'>Affiliations</a>. X-rays and Gamma Rays are the Best Rays.
+subtitle: <a href='https://physics.uiowa.edu'>Assistant Professor</a>. <b>X-rays and Gamma Rays are the Best Rays</b>
 
 profile:
   align: right
