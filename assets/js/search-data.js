@@ -486,6 +486,13 @@ ninja.data = [{
           window.open("mailto:%64%75%73%74%69%6E-%73%77%61%72%6D@%75%69%6F%77%61.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/dustin-swarm", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
