@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a high-energy astrophysicist and assistant professor in the Department of Physics & Astronomy at University of Iowa. My [research interests](./projects.md) include accreting compact objects and technology development for astrophysics instrumentation. I am a [NASA Nancy Grace Roman Technology Fellow](https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/).
+I am a high-energy astrophysicist and assistant professor in the Department of Physics & Astronomy at University of Iowa. My research interests include accreting compact objects and technology development for astrophysics instrumentation. I am a [NASA Nancy Grace Roman Technology Fellow](https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/).
 
 You can contact me using the email icon below.
