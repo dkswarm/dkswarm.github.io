@@ -29,22 +29,22 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Thesis title: "Data-Driven Exploration in X-ray Astronomy: Investigating Intermediate Polar Candidates Found Among Unusual Objects Selected by an Unsupervised Outlier Identification Algorithm"
+          - "Thesis title: *Data-Driven Exploration in X-ray Astronomy: Investigating Intermediate Polar Candidates Found Among Unusual Objects Selected by an Unsupervised Outlier Identification Algorithm*"
 
       - institution: Greenville University
         location: Greenville, IL
         area: Physics, Mathematics
         studyType: BA
-        start_date: 2018
-        end_date: 2016
+        start_date: 2016
+        end_date: 2018
         highlights: ""
         
       - institution: Greenville College
         location: Greenville, IL
         area: Spanish Education
         studyType: BS
-        start_date: 2010
-        end_date: 2006
+        start_date: 2006
+        end_date: 2010
         highlights: ""
           
 
