@@ -37,7 +37,7 @@ cv:
         studyType: BA
         start_date: 2016
         end_date: 2018
-        highlights: []
+        highlights: ""
         
       - institution: Greenville College
         location: Greenville, IL
@@ -45,24 +45,24 @@ cv:
         studyType: BS
         start_date: 2006
         end_date: 2010
-        highlights: []
+        highlights: ""
           
     Experience:
       - company: Department of Physics & Astronomy, University of Iowa
         position: Assistant Professor
         location: Iowa City, IA
         start_date: 2025
-        end_date: present
-        summary: []
-        highlights: []
+        end_date: ""
+        summary: ""
+        highlights: ""
 
       - company: Department of Physics & Astronomy, University of Iowa
         position: Postdoctoral Research Scholar
         location: Iowa City, IA
         start_date: 2023
         end_date: 2025
-        summary: []
-        highlights: []
+        summary: ""
+        highlights: ""
 
       - company: Department of Physics & Astronomy, University of Iowa
         position: Graduate and Teaching Assistant
@@ -85,4 +85,3 @@ cv:
         awarder: NASA Science Mission Directorate
         url: https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/
         summary: Competitive fellowship awarded to early-career researchers serving as PI of a funded Astrophysics Research & Analysis project. The fellowship is designed to cultivate the skills needed to lead future NASA astrophysics missions and develop new technologies that enable scientific breakthroughs.
-        
