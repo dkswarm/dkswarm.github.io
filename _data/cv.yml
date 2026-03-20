@@ -29,7 +29,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Thesis title: "Data-Driven Exploration in X-ray Astronomy: Investigating Intermediate Polar Candidates Found Among Unusual Objects Selected by an Unsupervised Outlier Identification Algorithm"
+          - Thesis title "Data-Driven Exploration in X-ray Astronomy Investigating Intermediate Polar Candidates Found Among Unusual Objects Selected by an Unsupervised Outlier Identification Algorithm"
 
       - institution: Greenville University
         location: Greenville, IL
