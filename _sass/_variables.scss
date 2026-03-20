@@ -65,3 +65,34 @@ $back-to-top-width: $back-to-top-diameter;
 
 // Max width default
 $max-content-width: 930px !default;
+
+$teal-color: #107285 !default;
+$teal-color-light: #d8eeff !default;
+
+$white-color: #ffffff !default;
+$black-color: #000000 !default;
+
+/* Colors from https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js Themes */
+$catppuccin-latte-bg: #eff1f5 !default;
+$catppuccin-latte-text: #4c4f69 !default;
+$catppuccin-latte-icon: #8839ef !default;
+$catppuccin-latte-title: #137980 !default;
+
+// Theme colors
+
+$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-dark: #2c3237 !default;
+
+// Font awesome location
+$fa-font-path: "../webfonts";
+
+// Back To Top button config
+$back-to-top-z-index: 10;
+$back-to-top-bottom: 30px;
+$back-to-top-right: 30px;
+$back-to-top-diameter: 40px;
+$back-to-top-height: $back-to-top-diameter;
+$back-to-top-width: $back-to-top-diameter;
+
+// Max width default
+$max-content-width: 930px !default;
