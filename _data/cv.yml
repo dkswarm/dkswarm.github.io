@@ -46,7 +46,7 @@ cv:
         start_date: 2006
         end_date: 2010
         highlights: []
-          
+    
     Experience:
       - company: Department of Physics & Astronomy, University of Iowa
         position: Assistant Professor
@@ -78,6 +78,8 @@ cv:
         start_date: 2010
         end_date: 2016
 
+    Volunteer:
+    
     Awards:
       - title: Nancy Grace Roman Technology Fellow
         authors: ""
@@ -85,3 +87,17 @@ cv:
         awarder: NASA Science Mission Directorate
         url: https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/
         summary: Competitive fellowship awarded to early-career researchers serving as PI of a funded Astrophysics Research & Analysis project. The fellowship is designed to cultivate the skills needed to lead future NASA astrophysics missions and develop new technologies that enable scientific breakthroughs.
+
+    Publications:
+
+    Skills:
+
+    Languages:
+
+    Interests:
+
+    Certificates:
+
+    Projects:
+
+    References:
