@@ -37,7 +37,7 @@ cv:
         studyType: BA
         start_date: 2016
         end_date: 2018
-        highlights: ""
+        highlights: []
         
       - institution: Greenville College
         location: Greenville, IL
@@ -45,7 +45,7 @@ cv:
         studyType: BS
         start_date: 2006
         end_date: 2010
-        highlights: ""
+        highlights: []
           
     Experience:
       - company: Department of Physics & Astronomy, University of Iowa
