@@ -4,8 +4,9 @@
 @use "variables" as v;
 @use "sass:color";
 
+// Not really "light" theme anymore. Turning off theme switcher and making this default
 :root {
-  color-scheme: light; // Not really "light" theme anymore. Turning off theme switcher and making this default
+  color-scheme: light; 
   --global-bg-color: #{v.$corsair-bluegrey-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
   --global-text-color: #{v.$grey-color-light};
