@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: "High-energy Astrophysics: Observation and Technology Development"
+description: "High-energy astrophysics: observation and technology development"
 nav: true
 nav_order: 3
 display_categories: [work, fun]
