@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "High-energy Astrophysics: Observation and Technology Development",
+          description: "High-energy astrophysics: observation and technology development",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
