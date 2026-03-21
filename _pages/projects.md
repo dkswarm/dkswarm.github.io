@@ -9,14 +9,14 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
-### accreting compact objects
+### <span style="color: #FFCD00;">accreting compact objects</span>
 
 This is a description of my research of accreting compact objects.
 
-### technology development
+### <span style="color: #FFCD00;">technology development</span>
 
 This is a description of my research in technology development.
 
-### machine learning
+### <span style="color: #FFCD00;">machine learning</span>
 
 Here is a description of the research I do relating to machine learning applications to astrophysics.
