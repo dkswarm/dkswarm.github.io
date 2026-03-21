@@ -2,21 +2,21 @@
 layout: page
 title: research
 permalink: /research/
-description: "High-energy astrophysics: observation and technology development"
+description: "high-energy astrophysics: observation and technology development"
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: true
 ---
 
-# Accreting Compact Objects
+### accreting compact objects
 
 This is a description of my research of accreting compact objects.
 
-# Technology Development
+### technology development
 
 This is a description of my research in technology development.
 
-# Machine Learning for Astrophysics Discovery
+### machine learning
 
 Here is a description of the research I do relating to machine learning applications to astrophysics.
