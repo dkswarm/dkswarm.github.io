@@ -156,7 +156,8 @@ collections:
       layout: post
     output: true
   projects:
-    output: False
+    output: True
+    permalink: /research/:path/
   teachings:
     output: False
 
