@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://physics.uiowa.edu'> Assistant Professor</a>. <b>X-rays and Gamma Rays are the Best Rays</b>
+subtitle: <a href='https://physics.uiowa.edu'> Assistant Professor</a>. X-rays and Gamma Rays are the Best Rays!
 
 profile:
   align: right
@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a high-energy astrophysicist and assistant professor in the Department of Physics & Astronomy at University of Iowa. My research interests include accreting compact objects and technology development for astrophysics instrumentation. I am a [NASA Nancy Grace Roman Technology Fellow](https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/).
+I am a high-energy astrophysicist and assistant professor in the Department of Physics & Astronomy at University of Iowa. My [research areas](/research/) are in observational astrophysics and technology development. I study:
+1. accreting compact objects, especially systems hosting an accreting white dwarf;
+2. machine learning algorithms to enable astrophysical analysis and discovery;
+3. soft-gamma-ray focusing optics to explore point sources of Galactic positron generation.
+I am [NASA Nancy Grace Roman Technology Fellow](https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/), awarded for my research in gamma-ray focusing optics.
 
-You can contact me using the email icon below.
+You can find my CV via the CV page at the top and the CV symbol at the bottom of this page. Please send a message with any LinkedIn connection requests. Email is my preferred mode of communication; you can email me using the icon below.
