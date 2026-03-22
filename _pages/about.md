@@ -29,6 +29,8 @@ I am a high-energy astrophysicist and assistant professor in the Department of P
 1. accreting compact objects, especially systems hosting an accreting white dwarf;
 2. machine learning algorithms to enable astrophysical analysis and discovery;
 3. soft-gamma-ray focusing optics to explore point sources of Galactic positron generation.
-I am [NASA Nancy Grace Roman Technology Fellow](https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/), awarded for my research in gamma-ray focusing optics.
+I am a [NASA Nancy Grace Roman Technology Fellow](https://science.nasa.gov/researchers/sara/fellowship-programs/nancy-grace-roman-technology-fellowships-astrophysics-early-career-researchers/), awarded for my research in gamma-ray focusing optics.
 
-You can find my CV via the CV page at the top and the CV symbol at the bottom of this page. Please send a message with any LinkedIn connection requests. Email is my preferred mode of communication; you can email me using the icon below.
+Outside of astronomy, my interests include dinosuars, Star Trek, nautical and aerospace history, and Tolkien's Middle Earth. My hobbies include reading, listening to podcasts, knitting, cycling, canoeing, and night walking.
+
+Email is my preferred mode of communication. You can email me using the icon below.
