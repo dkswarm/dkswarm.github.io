@@ -101,6 +101,10 @@ ul.task-list input[type="checkbox"] {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-theme-color);
 
+    .table {
+      color: var(--global-text-color);
+    }
+    
     .list-group-item {
       background-color: inherit;
       border-color: var(--global-divider-color);
