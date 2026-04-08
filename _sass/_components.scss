@@ -99,7 +99,7 @@ ul.task-list input[type="checkbox"] {
 
   .card {
     background-color: var(--global-card-bg-color);
-    border: 1px solid var(--global-theme-color);
+    border: none;
 
     .table {
       color: var(--global-text-color);
@@ -107,7 +107,7 @@ ul.task-list input[type="checkbox"] {
     
     .list-group-item {
       background-color: inherit;
-      border-color: var(--global-divider-color);
+      border-color: var(--global-theme-color);
 
       .badge {
         color: var(--global-card-bg-color) !important;
