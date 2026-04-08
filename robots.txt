@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dkswarm.github.io/sitemap.xml
+Sitemap: https://swarm.science/sitemap.xml
